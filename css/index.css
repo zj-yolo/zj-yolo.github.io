@@ -5,7 +5,8 @@ body {
 .container {
   margin: 28px auto;
   padding: 20px 40px;
-  width: 800px;
+  /* width: 800px; */
+  width: 46%;
   min-height: 100%;
   border: 1px solid #dbdbdb;
   background-color: #fafafa;
